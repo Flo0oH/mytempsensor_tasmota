@@ -1,0 +1,1 @@
+2023-04-17 22:24:22: Temperatur=21.0, Luftfeuchtigkeit=59.0, Taupunkt=12.7

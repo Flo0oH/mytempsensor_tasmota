@@ -1,0 +1,8 @@
+2023-04-17 22:22:16: Temperatur=21.0, Luftfeuchtigkeit=59.0, Taupunkt=12.7
+2023-04-17 22:22:51: Temperatur=21.0, Luftfeuchtigkeit=59.0, Taupunkt=12.7
+2023-04-17 22:23:21: Temperatur=21.0, Luftfeuchtigkeit=59.0, Taupunkt=12.7
+2023-04-17 22:23:51: Temperatur=21.0, Luftfeuchtigkeit=59.0, Taupunkt=12.7
+2023-04-17 22:24:22: Temperatur=21.0, Luftfeuchtigkeit=59.0, Taupunkt=12.7
+2023-04-17 22:24:52: Temperatur=21.4, Luftfeuchtigkeit=60.0, Taupunkt=13.3
+2023-04-17 22:25:22: Temperatur=21.4, Luftfeuchtigkeit=59.0, Taupunkt=13.0
+2023-04-17 22:25:52: Temperatur=21.4, Luftfeuchtigkeit=59.0, Taupunkt=13.0
