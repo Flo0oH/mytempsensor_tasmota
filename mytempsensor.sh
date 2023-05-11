@@ -26,7 +26,7 @@ function log_data {
     echo "$timestamp: Temperatur=$temp, Luftfeuchtigkeit=$humid, Taupunkt=$dew" >> Logging/log.txt
 
     # Warten für 30 Sekunden
-    sleep 30
+    sleep 60
   done
 }
 
